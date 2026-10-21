@@ -1,6 +1,6 @@
 
 <div align="left">
-<img align="center" src="https://file.garden/aYityv_gnxLLB07t/hel.png" width=40% height=40%>
+<img align="center" src="https://file.garden/aYityv_gnxLLB07t/hel.png" width=45% height=45%>
   
   <table>
     <tr>
