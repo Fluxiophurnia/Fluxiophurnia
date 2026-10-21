@@ -1,10 +1,9 @@
 
-<div align="right">
+<div align="left">
 
-<img align="left" src="https://file.garden/aYityv_gnxLLB07t/Untitled104_20261021141243.png" width=50% height=50%>
 
   
-<img align="right" src="https://file.garden/aYityv_gnxLLB07t/rocket3.png" width=25% height=25%>
+<img align="center" src="https://file.garden/aYityv_gnxLLB07t/rocket3.png" width=25% height=25%>
   <table>
     <tr>
       <td>
