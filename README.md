@@ -5,7 +5,8 @@
   <table>
     <tr>
       <td>
-herghe sdf sdfysdiusdhfsdufsdhifudshughsdiufs
+call me 𝗿𝗼𝗰𝗸𝗲𝘁 ,ㅤplease.ㅤother names + kinsㅤ<a href="https://pronouns.cc/@rocket">here</a> <br>
+        pwbpd + adhd-c. iwc&iayorㅤ. lvl 800+ rocket main
       </td>
     </tr>
   </table>
